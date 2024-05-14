@@ -1,4 +1,8 @@
-# Dockerizing the Application
+# Application Deployment of a React application to a production ready state 
+
+
+
+## Dockerizing the Application
 ## Dockerfile:
 Create a Dockerfile in the root of your project:
 Stage 1 - Build React Application
